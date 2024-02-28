@@ -4,6 +4,6 @@ Sudoku is a game in which the playing field is a 9x9 grid divided into smaller 3
 
 ![image](https://github.com/AILogoSkill/SUDOKU_CV2/assets/144710374/74a655ea-179b-4da5-99aa-3313004e9e83)
 
+![image](https://github.com/AILogoSkill/SUDOKU_CV2/assets/144710374/54a4aebe-2187-401b-a40b-6e89e37e5cca)
 
-![image](https://github.com/AILogoSkill/SUDOKU_CV2/assets/144710374/458cfa59-fd2b-41cb-ab10-4077188c56da)
 
